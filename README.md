@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Matheus-Marinho
-- 👀 I’m interested in learning and improving techniques for development in Python and Mobile. 
-- 🌱 I’m currently learning Python and Dart / Flutter.
-- 💞️ I’m looking to collaborate on mobile development projects.
-- 📫 How to reach me: matheusmarinho_mm@hotmail.com
+- 👋 Olá, eu sou o @Matheus-Marinho
+- 👀 Estou procurando aprimorar e adquirir novos conhecimentos em Pyhton e mobile. 
+- 🌱 Atualmente estou estudando Python, Dart/Flutter e Java.
+- 📫 Meu contato: matheusmarinho_mm@hotmail.com
 
 <!---
 Matheus-Marinho/Matheus-Marinho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
