@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou o @Matheus-Marinho
 - 👀 Estou procurando aprimorar e adquirir novos conhecimentos em Pyhton e mobile. 
-- 🌱 Atualmente estou estudando Python, Dart/Flutter e Java.
+- 🌱 Atualmente estou estudando Java(Spring Boot) e JavaScript (React).
 - 📫 Meu contato: matheusmarinho_mm@hotmail.com
 
 <!---
