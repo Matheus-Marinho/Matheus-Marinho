@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou o @Matheus-Marinho
-- 👀 Estou procurando aprimorar e adquirir novos conhecimentos em Java, Pyhton e mobile. 
-- 🌱 Atualmente estou estudando Java(Spring Boot) e JavaScript (React).
+- 👀 Estou procurando aprimorar e adquirir novos conhecimentos em Java e Angular. 
+- 🌱 Atualmente atuo em projetos que utilizam Java(SpringBoot, JPA, JPQL e etc.) e Angular.
 - 📫 Meu contato: matheusmarinho_mm@hotmail.com
 
 <!---
